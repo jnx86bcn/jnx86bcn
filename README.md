@@ -1,5 +1,7 @@
 <p align="center"><img alt="gif" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="700" height="520" /></p>
 
+![](https://visitor-badge.glitch.me/badge?page_id=jnx86bcn.jnx86bcn)
+
 <br />
 
 I'm a self-taught passionate FullStack developer from Argentina living in Barcelona.
