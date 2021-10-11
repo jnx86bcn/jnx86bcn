@@ -1,6 +1,12 @@
-  <img alt="GIF" style="margin: 0 auto" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="700" height="520" />
+  <img alt="GIF" style="margin-left: 9%;" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="700" height="520" />
+
+<br />
+<br />
 
 I'm a self-taught passionate FullStack developer from Argentina arg living in Barcelona.
+
+<br />
+<br />
 
 **About me**
 
@@ -9,6 +15,9 @@ I'm a self-taught passionate FullStack developer from Argentina arg living in Ba
 - 🌱 &nbsp;I’m currently learning Verilog, Unreal4 and Python applied on DSP devices
 - 🥅 &nbsp;2022 Goals: Learn to use my FPGA and finish my personal webpage
 - 📈 &nbsp;Crypto lover ❤️ #Bitcoin ₿
+
+<br />
+<br />
 
 **Languages and Tools:**  
 
@@ -30,6 +39,9 @@ I'm a self-taught passionate FullStack developer from Argentina arg living in Ba
 <code><img height="20" alt="powershell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
 <code><img height="20" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="20" alt="fpga" src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.5.0/1625293831214/Microsoft.VisualStudio.Services.Icons.Default"></code>
+
+<br />
+<br />
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
