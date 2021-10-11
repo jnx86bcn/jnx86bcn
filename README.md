@@ -4,11 +4,11 @@ I'm a self-taught passionate FullStack developer from Argentina arg living in Ba
 
 **About me**
 
-- 💼 Research Engineer at [ICFO](https://www.icfo.eu/)
-- 🔭 I’m currently working on a Continous Variable quantum key distribution prototype
-- 🌱 I’m currently learning Verilog, Unreal4 and Python applied on DSP devices
-- 🥅 2022 Goals: Learn to use my FPGA and finish my personal webpage
-- 📈 Crypto lover ❤️ #Bitcoin ₿
+&nbsp;💼 Research Engineer at [ICFO](https://www.icfo.eu/)
+&nbsp;🔭 I’m currently working on a Continous Variable quantum key distribution prototype
+&nbsp;🌱 I’m currently learning Verilog, Unreal4 and Python applied on DSP devices
+&nbsp;🥅 2022 Goals: Learn to use my FPGA and finish my personal webpage
+&nbsp;📈 Crypto lover ❤️ #Bitcoin ₿
 
 **Languages and Tools:**  
 
@@ -25,3 +25,9 @@ I'm a self-taught passionate FullStack developer from Argentina arg living in Ba
 <code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" alt="powershell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
+<code><img height="20" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/juan-gasparino/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
