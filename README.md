@@ -29,7 +29,7 @@ I'm a self-taught passionate FullStack developer from Argentina arg living in Ba
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" alt="powershell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
 <code><img height="20" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="20" alt="fpga" src="https://www.nettimelogic.com/resources/FpgaServices.png"></code>
+<code><img height="20" alt="fpga" src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.5.0/1625293831214/Microsoft.VisualStudio.Services.Icons.Default"></code>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
