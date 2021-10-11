@@ -37,14 +37,14 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 <code><img height="20" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="20" alt="fpga" src="https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.5.0/1625293831214/Microsoft.VisualStudio.Services.Icons.Default"></code>
 
-<br />
-<br />
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-gasparino/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 <br />
 
 | <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jnx86bcn&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnx86bcn&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br />
+
+<a href="https://www.linkedin.com/in/juan-gasparino/?locale=en_US">
+  <img align="left" alt="juan-gasparino's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
