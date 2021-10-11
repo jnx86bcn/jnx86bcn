@@ -1,11 +1,9 @@
-  <img alt="GIF" style="margin-left: 9%;" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="700" height="520" />
+<p align="center"><img alt="gif" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="700" height="520" /></p>
 
 <br />
-<br />
 
-I'm a self-taught passionate FullStack developer from Argentina arg living in Barcelona.
+I'm a self-taught passionate FullStack developer from Argentina living in Barcelona.
 
-<br />
 <br />
 
 **About me**
@@ -16,7 +14,6 @@ I'm a self-taught passionate FullStack developer from Argentina arg living in Ba
 - 🥅 &nbsp;2022 Goals: Learn to use my FPGA and finish my personal webpage
 - 📈 &nbsp;Crypto lover ❤️ #Bitcoin ₿
 
-<br />
 <br />
 
 **Languages and Tools:**  
@@ -47,7 +44,6 @@ I'm a self-taught passionate FullStack developer from Argentina arg living in Ba
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-gasparino/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-<br />
 <br />
 
 | <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jnx86bcn&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnx86bcn&layout=compact&theme=gotham&hide_border=true" /></a> |
