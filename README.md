@@ -16,7 +16,7 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 
 <br />
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 <code><img height="20" alt="visual-studio-code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" alt="fpga" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
@@ -44,6 +44,8 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br />
+
+**Fine me here**  
 
 <a href="https://www.linkedin.com/in/juan-gasparino/?locale=en_US">
   <img align="left" alt="juan-gasparino's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
