@@ -1,4 +1,4 @@
-### Hi there 👋
+  <img alt="GIF" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="500" height="320" />
 
 I'm a self-taught passionate FullStack developer from Argentina arg living in Barcelona.
 
