@@ -44,8 +44,13 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 
 <br />
 
-| <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jnx86bcn&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnx86bcn&layout=compact&theme=gotham&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jnx86bcn&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="jnx86bcn's github stats" /></a> | <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnx86bcn&layout=compact&theme=gotham&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br />
 
