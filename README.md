@@ -1,5 +1,7 @@
 <p align="center"><img alt="gif" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="700" height="520" /></p>
 
+<br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=jnx86bcn.jnx86bcn)
 
 <br />
@@ -14,7 +16,7 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 - 🔭 &nbsp;I’m currently working on a Continous Variable quantum key distribution prototype
 - 🌱 &nbsp;I’m currently learning Verilog, Unreal4 and Python applied on DSP devices
 - 🥅 &nbsp;2022 Goals: Learn to use my FPGA and finish my personal webpage
-- 📈 &nbsp;Crypto lover ❤️ #Bitcoin ₿
+- 📈 &nbsp;Crypto and NFT lover ❤️ #Bitcoin ₿ 🚀
 
 <br />
 
