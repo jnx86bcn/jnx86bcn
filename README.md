@@ -1,8 +1,8 @@
-<p align="center"><img alt="gif" src="https://github.com/jnx86bcn/jnx86bcn/blob/master/code.gif?raw=true" width="700" height="520" /></p>
+<p align="center"><img alt="gif" src="https://github.com/juan-gasparino/juan-gasparino/blob/master/code.gif?raw=true" width="700" height="520" /></p>
 
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=jnx86bcn.jnx86bcn)
+![](https://visitor-badge.glitch.me/badge?page_id=juan-gasparino.juan-gasparino)
 
 <br />
 
@@ -44,8 +44,8 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 
 <br />
 
-| <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jnx86bcn&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="jnx86bcn's github stats" /></a> | <a href="https://github.com/jnx86bcn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnx86bcn&layout=compact&theme=gotham&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/juan-gasparino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juan-gasparino&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="juan-gasparino's github stats" /></a> | <a href="https://github.com/juan-gasparino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-gasparino&layout=compact&theme=gotham&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br />
 
