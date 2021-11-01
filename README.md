@@ -49,6 +49,8 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 
 <br />
 
+**This week** 
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
