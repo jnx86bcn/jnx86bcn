@@ -50,9 +50,7 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 <br />
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
 <br />
