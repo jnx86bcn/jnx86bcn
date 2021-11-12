@@ -47,15 +47,6 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 | <a href="https://github.com/juan-gasparino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juan-gasparino&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="juan-gasparino's github stats" /></a> | <a href="https://github.com/juan-gasparino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-gasparino&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<br />
-
-**This week** 
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 <br />
 
