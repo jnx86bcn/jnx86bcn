@@ -12,11 +12,11 @@ I'm a self-taught passionate FullStack developer from Argentina living in Barcel
 
 **About me**
 
-- 💼 &nbsp;Research Engineer at [ICFO](https://www.icfo.eu/)
+- 💼 &nbsp;Research Engineer at [LUXQUANTA TECHNOLOGIES](https://www.luxquanta.com/)
 - 🔭 &nbsp;I’m currently working on a Continous Variable quantum key distribution prototype
 - 🌱 &nbsp;I’m currently learning Verilog, Unreal4 and Python applied on DSP devices
 - 🥅 &nbsp;2022 Goals: Learn to use my FPGA and finish my personal webpage
-- 📈 &nbsp;Crypto and NFT lover ❤️ #Bitcoin ₿ 🚀
+- 📈 &nbsp;Crypto alover ❤️ #Bitcoin ₿ 🚀
 
 <br />
 
