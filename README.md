@@ -44,9 +44,3 @@ I'm a self-taught passionate FullStack developer at Barcelona
 
 
 <br />
-
-**Find me**  
-
-<a href="https://www.linkedin.com/in/juan-gasparino/?locale=en_US">
-  <img align="left" alt="juan-gasparino's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
