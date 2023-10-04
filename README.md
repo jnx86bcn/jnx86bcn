@@ -1,4 +1,4 @@
-<p align="center"><img alt="gif" src="https://github.com/juan-gasparino/juan-gasparino/blob/master/code.gif?raw=true" width="700" height="520" /></p>
+<p align="center"><img alt="gif" src="https://github.com/juan-gasparino/juan-gasparino/blob/main/code.gif?raw=true" width="700" height="520" /></p>
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=juan-gasparino.juan-gasparino)
