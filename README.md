@@ -1,14 +1,12 @@
 <p align="center"><img alt="gif" src="https://github.com/juan-gasparino/juan-gasparino/blob/main/code.gif?raw=true" width="700" height="520" /></p>
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=juan-gasparino.juan-gasparino)
+💻&nbsp;Software Engineer
 <br />
 
-I'm a self-taught passionate FullStack developer at Barcelona
+"I possess a solid background in telecommunications, providing a strong foundation in network protocols and systems. Alongside this, I've honed my skills in both frontend and backend development over the course of six years, allowing me to create comprehensive, user-centric solutions. This proficiency has been instrumental in my notable university project, where I seamlessly integrated mathematical principles using Python and Matlab to deliver practical, real-world applications [Obtuse angles on set points](https://upcommons.upc.edu/bitstream/handle/2099.1/18901/memoria.pdf?sequence=1&isAllowed=y). Currently based in Barcelona, I am also contributing to the field of quantum cryptography in my current role, which provides valuable insights and enriches my software development endeavors, ensuring a holistic approach to problem-solving."
 <br />
 
-- 💼 &nbsp;Research Engineer
-<br />
 
 **Languages and Tools**  
 <code><img height="20" alt="visual-studio-code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
