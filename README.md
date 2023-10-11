@@ -4,7 +4,70 @@
 💻&nbsp;Software Engineer
 <br />
 
-"I possess a solid background in telecommunications, providing a strong foundation in network protocols and systems. Alongside this, I've honed my skills in both frontend and backend development over the course of six years, allowing me to create comprehensive, user-centric solutions. This proficiency has been instrumental in my notable university project, where I seamlessly integrated mathematical principles using Python and Matlab to deliver practical, real-world applications [Obtuse angles on set points](https://upcommons.upc.edu/bitstream/handle/2099.1/18901/memoria.pdf?sequence=1&isAllowed=y). Currently based in Barcelona, I am also contributing to the field of quantum cryptography in my current role, which provides valuable insights and enriches my software development endeavors, ensuring a holistic approach to problem-solving."
+```python
+
+class Developer:
+
+  def __init__(self):
+    self.name = 'Juan'
+    self.last_name = 'Gasparino'
+    self.profession = 'Software Engineer'
+    self.studies = 'Telecommunications engineering'
+    self.base_location = 'Barcelona'
+    self.years_worked = 6
+    self.socials = {
+      "Social1":{
+        "name": 'Linkedin',
+        "link": 'https://www.linkedin.com/in/juan-gasparino'
+      }
+    }
+    self.skills = [
+      'C',
+      'C++',
+      'C#',
+      'Python',
+      'React',
+      'Matlab',
+      'Docker',
+      'Ansible'
+    ]
+    self.relevant_projects = {
+      "Project1":{
+        "name": 'Obtuse angles on set points',
+        "link": 'https://upcommons.upc.edu/bitstream/handle/2099.1/18901/memoria.pdf',
+        "year": 2012
+      },
+      "Project2":{
+        "name": 'LUXQUANTA field demonstration with the Gov of Catalunya',
+        "link": 'https://www.luxquanta.com/luxquanta-field-demonstration-with-the-government-of-catalunya-n-19-en',
+        "year": 2022
+      }
+    }
+    
+
+  def grettings(self):
+    print(f'''
+I possess a solid background in {self.studies}, providing a strong
+foundation in network protocols and systems. Alongside this, I've honed my 
+skills in both frontend and backend development over the course of {self.years_worked} 
+years, allowing me to create comprehensive, user-centric solutions. This 
+proficiency has been instrumental in my notable university project, where 
+I seamlessly integrated mathematical principles using {self.skills[3]} and {self.skills[5]} to 
+deliver practical, real-world applications {self.relevant_projects["Project1"]["name"]}. 
+Currently based in {self.base_location}, I am also contributing to the field of 
+cyber-security in my current role, which provides valuable insights 
+and enriches my software development endeavors, ensuring a holistic 
+approach to problem-solving. A relevant project releated with this topic was the following demo: 
+{self.relevant_projects["Project2"]["name"]} presented 
+in {self.relevant_projects["Project2"]["year"]} for more information 
+you can visit my {self.socials["Social1"]["name"]}''')
+
+if __name__ == "__main__":
+  developer = Developer()
+  developer.grettings()
+
+```
+
 <br />
 
 
