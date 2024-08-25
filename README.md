@@ -11,7 +11,7 @@ class Developer:
   def __init__(self):
     self.name = 'Juan'
     self.last_name = 'Gasparino'
-    self.page = 'https://juan-gasparino.com'
+    self.page = 'juan-gasparino.com'
     self.profession = 'Software Engineer'
     self.years_worked = 8
     self.base_location = 'Barcelona'
@@ -19,7 +19,7 @@ class Developer:
     self.socials = {
       "Social1":{
         "name": 'Linkedin',
-        "link": 'https://www.linkedin.com/in/juan-gasparino'
+        "link": 'linkedin.com/in/juan-gasparino'
       }
     }
     self.skills = [
@@ -34,17 +34,17 @@ class Developer:
     self.relevant_projects = {
       "Project3":{
         "name": 'NOVA LQ™ system featured in the national press',
-        "link": 'https://juan-gasparino.com/projects/2',
+        "link": 'juan-gasparino.com/projects/2',
         "year": 2023
       },
       "Project2":{
         "name": 'LuxQuanta field demonstration with the Gov of Catalunya',
-        "link": 'https://juan-gasparino.com/projects/1',
+        "link": 'juan-gasparino.com/projects/1',
         "year": 2022
       },
       "Project1":{
         "name": 'Obtuse angles on set points',
-        "link": 'https://juan-gasparino.com/projects/3',
+        "link": 'juan-gasparino.com/projects/3',
         "year": 2012
       }
     }
